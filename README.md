@@ -1,7 +1,7 @@
 ## Hi there, I'm Francisco Furtado 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-furtado-30b617295/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kikofurtado2002@gmail.com)
+<!-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kikofurtado2002@gmail.com) -->
 
 I'm a junior developer and current student at Instituto Politécnico de Leiria in the PSI's TESP course (Information Systems Programming). My projects, often collaborative and school-based, range from planning and design to developing programming skills. Despite some incomplete works, my goal is continuous improvement, with plans to finish these projects in the near future. While I prefer teamwork, I'm also comfortable working independently. For details about collaborators and their capabilities, check their GitHub profiles.
 
