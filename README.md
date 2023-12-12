@@ -1,6 +1,6 @@
 ### Hi there, I'm Francisco Furtado 👋
 
-I'm a developer and currently a student in Leiria at the Instituto Politécnico de Leiria. I'm enrolled in the PSI's TESP course (PT - Programação de Sistemas de Informação/ EN - Information Systems Programming). All coding projects are mostly built from the ground up, starting from planning and designing all the way to developing my skills and capabilities in programming. Some of the projects might be incomplete and nothing special, but the idea is to work on them and develop; they are going to be finished in the near future, at least that's what I am working for. And one last note, most of these projects are school projects, so some were developed with a group. I prefer working with other people than alone, but that doesn't mean I can't work alone. If you are interested in knowing who the people I work with are and what their capabilities are, you can find their GitHub profiles here:
+I'm a junior developer and current student at Instituto Politécnico de Leiria in the PSI's TESP course (Information Systems Programming). My projects, often collaborative and school-based, range from planning and design to developing programming skills. Despite some incomplete works, my goal is continuous improvement, with plans to finish these projects in the near future. While I prefer teamwork, I'm also comfortable working independently. For details about collaborators and their capabilities, check their GitHub profiles.
 
 - https://github.com/Rubenzitoh21
 - https://github.com/joao-sintra
