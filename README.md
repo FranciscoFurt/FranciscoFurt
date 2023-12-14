@@ -32,7 +32,7 @@ I'm a junior developer and current student at Instituto Politécnico de Leiria i
 
 #
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 ![FranciscoFurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscofurt&show_icons=true&theme=gruvbox)
 
